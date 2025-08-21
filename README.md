@@ -7,7 +7,7 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 ## 👥 Integrantes
 
 * Pedro Henrique Franco Moreira Amaral – RA: 819472
-* Nome do Integrante 2 – RA: XXXXXXXX
+* Rafael de Souza Felisberto – RA: 804810
 * Nome do Integrante 3 – RA: XXXXXXXX
 
 ## 🧭 Etapas do Projeto
