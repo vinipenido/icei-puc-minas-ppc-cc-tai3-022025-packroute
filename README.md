@@ -8,7 +8,7 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 
 * Pedro Henrique Franco Moreira Amaral – RA: 819472
 * Rafael de Souza Felisberto – RA: 804810
-* Nome do Integrante 3 – RA: XXXXXXXX
+* José Ulisses Bueno - RA: 825579
 
 ## 🧭 Etapas do Projeto
 
