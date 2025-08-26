@@ -16,7 +16,7 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 
 * **Problema identificado:** Baixa remuneração e alta ineficiência logística para entregadores autônomos, que são forçados a aceitar rotas longas e de baixo valor, aumentando custos com combustível e manutenção, além do desgaste físico e do tempo perdido.
 * **Público-alvo:** Entregadores de delivery (motoqueiros e ciclistas) que trabalham com múltiplos aplicativos.
-* **Impacto esperado:** Aumento de até 40% na renda mensal dos entregadores, redução do tempo em trânsito, diminuição da emissão de carbono por entrega e melhoria na qualidade de vida do profissional.
+* **Impacto esperado:** Aumento na renda mensal dos entregadores, redução do tempo em trânsito, diminuição da emissão de carbono por entrega e melhoria na qualidade de vida do profissional.
 * **Solução proposta:** Um aplicativo mobile que se conecta às contas dos entregadores em diversas plataformas. Ele captura os pedidos recebidos e sugere uma rota única e otimizada. A plataforma utilizará **Inteligência Artificial** para aprimorar a experiência com:
     * **Despacho Preditivo:** Análise em tempo real da localização dos entregadores para designar automaticamente novos pedidos ao profissional mais bem posicionado, prevendo quem chegará mais rápido ao ponto de coleta.
     * **Recomendações Personalizadas:** O sistema aprende com o histórico de cada usuário para sugerir proativamente os pedidos que mais se alinham às suas preferências (tipo de produto, distância, valor, horários).
