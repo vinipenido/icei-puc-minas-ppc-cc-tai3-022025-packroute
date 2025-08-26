@@ -9,6 +9,8 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 * Pedro Henrique Franco Moreira Amaral – RA: 819472
 * Rafael de Souza Felisberto – RA: 804810
 * José Ulisses Bueno - RA: 825579
+* Matheus Militão Santos - RA: 806456
+
 
 ## 🧭 Etapas do Projeto
 
@@ -24,7 +26,8 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 
-* **Lean Canvas:** \[Link para a imagem do Lean Canvas do PackRoute]
+* **Lean Canvas:** \[(https://www.canva.com/design/DAGxLP5aZAk/_MDWNrhVh8uj4upFEzWAQQ/edit?utm_content=DAGxLP5aZAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+* ![Lean Canvas — PackRoute]("C:\Users\user\Downloads\01 Definição do Problema e da Solução em.png")
 * **Missão:** Empoderar entregadores autônomos com tecnologia, transformando seu trabalho diário em uma atividade mais lucrativa, eficiente e sustentável.
 * **Visão:** Ser a principal ferramenta de otimização e gestão para entregadores na América Latina, reconhecida por gerar impacto financeiro real e positivo na vida de seus usuários.
 * **Valores:** Eficiência, Transparência, Foco no Entregador, Inovação e Sustentabilidade.
