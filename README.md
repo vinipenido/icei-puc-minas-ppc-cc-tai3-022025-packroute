@@ -90,7 +90,7 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 |------------|-----------------------------------|----------------|--------------------------------------------------|
 | 06/08/2025 | Apresentação Disciplina + Start   | ✅ Concluído    | -                                                |
 | 13/08/2025 | Definição dos Grupos e Propostas  | ✅ Concluído    | Proposta do PackRoute aprovada.                  |
-| 20/08/2025 | Criação do Lean Canvas            | 🚧 Em andamento | Validar hipóteses com entrevistas.               |
+| 20/08/2025 | Criação do Lean Canvas            | ✅ Concluído    | -                                                |
 | 21/08/2025 | Estruturação do README.md         | ✅ Concluído    | Documento base criado.                           |
 | 21/08/2025 | Definição da estratégia de IA     | ✅ Concluído    | Brainstorm de features de IA para V2 do produto. |
 
