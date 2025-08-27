@@ -10,7 +10,7 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 * Rafael de Souza Felisberto – RA: 804810
 * José Ulisses Bueno - RA: 825579
 * Matheus Militão Santos - RA: 806456
-
+* Vinicius Henrique Muniz Penido - RA: 788527
 
 ## 🧭 Etapas do Projeto
 
