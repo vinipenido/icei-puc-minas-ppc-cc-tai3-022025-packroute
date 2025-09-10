@@ -33,7 +33,6 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 * **Valores:** Eficiência, Transparência, Foco no Entregador, Inovação e Sustentabilidade.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-
 * **Custos fixos:**
     * Assinatura de serviços de cloud (servidores, banco de dados, processamento de modelos de IA).
     * Custo com APIs de geolocalização e roteirização (Google Maps API, Mapbox).
@@ -43,6 +42,7 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
     * Custos de verificação de identidade (background check de novos usuários).
     * Investimento em marketing de performance (anúncios).
 * **Tributos aplicáveis:** Simples Nacional (como MEI ou Microempresa), incidindo sobre o faturamento da plataforma.
+* https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/custos_estudos.md
 
 ### 4️⃣ Investimentos e Precificação
 
