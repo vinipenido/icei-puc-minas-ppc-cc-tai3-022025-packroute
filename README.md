@@ -27,7 +27,7 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 
 * **Lean Canvas:** https://www.canva.com/design/DAGynDttdGk/kSPCKM1XFnpJDPvjXxR_Iw/view
-* [![Lean Canvas — PackRoute](assets/img/lean_canvas.png)](https://www.canva.com/design/DAGxLP5aZAk/_MDWNrhVh8uj4upFEzWAQQ/edit?utm_content=DAGxLP5aZAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [![Lean Canvas — PackRoute](assets/img/leanCanvas_v2.jpg)](https://www.canva.com/design/DAGynDttdGk/kSPCKM1XFnpJDPvjXxR_Iw/view)
 * **Missão:** Empoderar entregadores autônomos com tecnologia, transformando seu trabalho diário em uma atividade mais lucrativa, eficiente e sustentável.
 * **Visão:** Ser a principal ferramenta de otimização e gestão para entregadores na América Latina, reconhecida por gerar impacto financeiro real e positivo na vida de seus usuários.
 * **Valores:** Eficiência, Transparência, Foco no Entregador, Inovação e Sustentabilidade.
