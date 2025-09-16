@@ -51,7 +51,7 @@ https://pnbox.sebrae.com.br/planoNegocio/invite/Cy6Pfc24c
 * **Apoio Institucional:** O projeto conta com o apoio da PUC, que fornecerá a infraestrutura e mentoria necessárias para o desenvolvimento inicial do MVP (Produto Mínimo Viável).
 * **Estratégia de precificação:** Modelo de assinatura (SaaS).
     * **Plano Básico (Gratuito):** Otimização de até 3 pedidos simultâneos.
-    * **Plano Pro (R$ 29,90/mês):** Otimização ilimitada, estatísticas de ganhos e acesso às funcionalidades de IA (Recomendações e Oportunidades em Rota).
+    * **Plano Pro (R$ 34,90/mês):** Otimização ilimitada, estatísticas de ganhos e acesso às funcionalidades de IA (Recomendações e Oportunidades em Rota).
 * **Justificativa:** O modelo de assinatura cria uma receita recorrente. O valor do plano Pro é facilmente coberto pelo aumento de ganhos que a plataforma proporciona, tornando a proposta de valor clara.
 
 ### 5️⃣ SWOT (Análise de Ambientes)
