@@ -13,6 +13,8 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 * Vinicius Henrique Muniz Penido - RA: 788527
 
 ## 🧭 Etapas do Projeto
+### Link para o PNBOX
+https://pnbox.sebrae.com.br/planoNegocio/invite/Cy6Pfc24c
 
 ### 1️⃣ Definição do Problema e da Solução
 
