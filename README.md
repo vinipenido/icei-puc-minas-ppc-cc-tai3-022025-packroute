@@ -35,6 +35,9 @@ https://pnbox.sebrae.com.br/planoNegocio/invite/Cy6Pfc24c
 * **Valores:** Eficiência, Transparência, Foco no Entregador, Inovação e Sustentabilidade.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
+* **Tabela de custos:**
+* https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/custos_estudos.md
+
 * **Custos fixos:**
     * Assinatura de serviços de cloud (servidores, banco de dados, processamento de modelos de IA).
     * Custo com APIs de geolocalização e roteirização (Google Maps API, Mapbox).
@@ -44,9 +47,10 @@ https://pnbox.sebrae.com.br/planoNegocio/invite/Cy6Pfc24c
     * Custos de verificação de identidade (background check de novos usuários).
     * Investimento em marketing de performance (anúncios).
 * **Tributos aplicáveis:** Simples Nacional (como MEI ou Microempresa), incidindo sobre o faturamento da plataforma.
-* https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/custos_estudos.md
 
 ### 4️⃣ Investimentos e Precificação
+* **Tabela de investimentos:**
+* https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/plano_de_negocio.md
 
 * **Apoio Institucional:** O projeto conta com o apoio da PUC, que fornecerá a infraestrutura e mentoria necessárias para o desenvolvimento inicial do MVP (Produto Mínimo Viável).
 * **Estratégia de precificação:** Modelo de assinatura (SaaS).
