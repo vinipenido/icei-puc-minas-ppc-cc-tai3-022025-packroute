@@ -8,13 +8,14 @@ concorrência, modelo de precificação, peridicidade e métricas.
 
 ## 1. Investimentos
 
-| Item                                      | Tipo de investimento      |   Estimativa (R$)   |
+| Item                                      | Tipo de investimento      |  Estimativa (Mês)   |
 |-------------------------------------------|---------------------------|---------------------|
-| Marketing para inauguração                |      pré-operacional      |      R$1000,00      |
-| Criação e registro do software            |      pré-operacional      |      R$355,00       |
-| Marketing para inauguração                |      pré-operacional      |      R$1000,00      |
+| Marketing para inauguração                |      Pré-operacional      |      R$1000,00      |
+| Criação e registro do software            |      Pré-operacional      |      R$355,00       |
+| Marketing para inauguração                |      Pré-operacional      |      R$1000,00      |
+| Marketing para inauguração                |           Fixo            |   10% da receita    |
 
-- **Subtotal investimentos fixos:**  R$
+- **Subtotal investimentos fixos:** 10% da receita mensal 
 - **Subtotal investumentos pré-opercaional:**  R$ 2.355,00
 - **Subtotal capital de giro de acordo com a [tabela de custos](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/custos_estudos.md):**  R$3.800,00
 
