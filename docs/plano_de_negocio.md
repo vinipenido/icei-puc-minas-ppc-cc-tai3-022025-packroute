@@ -1,4 +1,4 @@
-# Investimento e precificação - PackRoute
+# Investimento, precificação e enquadramento jurídico e tributário  - PackRoute
 
 Este documento detalha os principais investimentos, do projeto, classificados por investimentos fixos, pré-operacionais e capital de giro.
 Também detalha os métodos para precificação do projeto PackRoute, contemplando os pontos valor entregue, capacidade de pagamento do publico alvo, 
