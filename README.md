@@ -14,7 +14,7 @@ O entregador pode, em uma mesma viagem, coletar um pedido em um restaurante, pas
 
 ## 🧭 Etapas do Projeto
 ### Link para o PNBOX
-https://pnbox.sebrae.com.br/planoNegocio/invite/Cy6Pfc24c
+https://pnbox.sebrae.com.br/planoNegocio/invite/N9Y5HN_mc
 
 ### 1️⃣ Definição do Problema e da Solução
 
