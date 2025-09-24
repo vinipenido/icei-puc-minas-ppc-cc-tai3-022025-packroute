@@ -13,7 +13,7 @@ concorrência, modelo de precificação, peridicidade e métricas.
 | Marketing para inauguração                |      Pré-operacional      |      R$1000,00      |
 | Criação e registro do software            |      Pré-operacional      |      R$355,00       |
 | Marketing para inauguração                |      Pré-operacional      |      R$1000,00      |
-| Marketing para inauguração                |           Fixo            |   10% da receita    |
+| Marketing para divulgação                 |           Fixo            |   10% da receita    |
 
 - **Subtotal investimentos fixos:** 10% da receita mensal 
 - **Subtotal investumentos pré-opercaional:**  R$ 2.355,00
