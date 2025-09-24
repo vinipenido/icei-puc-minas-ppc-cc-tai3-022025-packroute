@@ -56,3 +56,12 @@ concorrência, modelo de precificação, peridicidade e métricas.
 - LTV: se o usuário permanecer 12 meses em média → LTV ≈ R$ 418,80.
   
 ---
+
+## 3. Enquadramento Jurídico e Tributário
+- Natureza Jurídica: Sociedade Limitada (LTDA), para separar patrimônio pessoal e permitir entrada de sócios/investidores.
+- Regime Tributário: Simples Nacional (Anexo V, serviços de tecnologia), alíquota inicial em torno de 15,5%.
+- Tributação Incidente:
+  - IRPJ, CSLL, PIS, COFINS, ISS - todos recolhidos via DAS.
+  - ICMS - não aplicável por entregarmos apenas serviços.
+  - INSS patronal - somente se houver contratação CLT.
+- Obrigações Acessórias: emissão de notas fiscais de serviço (NFS-e), pagamento mensal do DAS, declaração DEFIS anual, escrituração contábil mínima.
