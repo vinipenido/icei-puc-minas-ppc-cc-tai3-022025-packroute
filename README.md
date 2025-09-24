@@ -49,7 +49,7 @@ https://pnbox.sebrae.com.br/planoNegocio/invite/Cy6Pfc24c
 * **Tributos aplicáveis:** Simples Nacional (como MEI ou Microempresa), incidindo sobre o faturamento da plataforma.
 
 ### 4️⃣ Investimentos e Precificação
-* **Tabela de investimentos:**
+* **Tabela de investimentos, precificação e enquadramento jurídico e tributário:**
 * https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/plano_de_negocio.md
 
 * **Apoio Institucional:** O projeto conta com o apoio da PUC, que fornecerá a infraestrutura e mentoria necessárias para o desenvolvimento inicial do MVP (Produto Mínimo Viável).
